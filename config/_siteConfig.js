@@ -19,15 +19,15 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'Về chúng tôi',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Liên hệ',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Danh mục',
       link: '/categories'
     },
     {
@@ -48,7 +48,7 @@ export default {
   // Main Layout/Style
   layout: {
     width: 'contained', // Options: contained, full
-    theme: 'one-column' // Options: one-column, sidebar-right, sidebar-left
+    theme: 'sidebar-right' // Options: one-column, sidebar-right, sidebar-left
   },
 
   // Card Layout
