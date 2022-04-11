@@ -31,18 +31,18 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Cùng nhau học',
+      link: 'https://minilessons.peerboard.com/',
       target: '_blank'
     },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
+  //  {
+  //    name: 'Awake+ Premium',
+  //    link: 'https://awake-premium-lp.netlify.com/',
+  //    target: '_blank'
+  //  }
   ],
   hero: {
-    theme: 'dark' // options: mist, light, dark
+    theme: 'mist' // options: mist, light, dark
   },
 
   // Main Layout/Style
